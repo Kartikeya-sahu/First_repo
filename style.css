@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(117, 129, 129);
+}
+#i1 {
+  margin-left: 10%;
+  width: 50px;
+}
+#i1 {
+  margin-left: 5%;
+  width: 250px;
+  margin-top: 0px;
+}
+#i2 {
+  margin-left: 25%;
+  width: 150px;
+  margin-top: -18px;
+}
+#i3 {
+  margin-left: 45%;
+  width: 150px;
+  margin-top: -18px;
+}
+#i4 {
+  margin-left: 65%;
+  width: 150px;
+  margin-top: -18px;
+}
+.navi {
+  top: 30px;
+  background-color: coral;
+}
+#i5 {
+  margin-left: 80%;
+  margin-top: -18px;
+}
+.actual {
+  width: 60%;
+}
+.head3 {
+  margin-top: -400px;
+  margin-left: 1000px;
+  width: 300px;
+  background-color: rgb(165, 104, 147);
+}
+.foot {
+  margin-top: 300px;
+  color: yellow;
+  font-weight: bold;
+  font-size: 20px;
+}
